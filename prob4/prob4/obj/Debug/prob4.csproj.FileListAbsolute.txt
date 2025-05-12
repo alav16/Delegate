@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\prob4\prob4\bin\Debug\prob4.exe.config
+C:\Users\user\Desktop\prob4\prob4\bin\Debug\prob4.exe
+C:\Users\user\Desktop\prob4\prob4\bin\Debug\prob4.pdb
+C:\Users\user\Desktop\prob4\prob4\obj\Debug\prob4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob4\prob4\obj\Debug\prob4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob4\prob4\obj\Debug\prob4.exe
+C:\Users\user\Desktop\prob4\prob4\obj\Debug\prob4.pdb
+C:\Users\user\Desktop\Marj\Homework\April12\prob4\prob4\bin\Debug\prob4.exe.config
+C:\Users\user\Desktop\Marj\Homework\April12\prob4\prob4\bin\Debug\prob4.exe
+C:\Users\user\Desktop\Marj\Homework\April12\prob4\prob4\bin\Debug\prob4.pdb
+C:\Users\user\Desktop\Marj\Homework\April12\prob4\prob4\obj\Debug\prob4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Marj\Homework\April12\prob4\prob4\obj\Debug\prob4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Marj\Homework\April12\prob4\prob4\obj\Debug\prob4.exe
+C:\Users\user\Desktop\Marj\Homework\April12\prob4\prob4\obj\Debug\prob4.pdb
